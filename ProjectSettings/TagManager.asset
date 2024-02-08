@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obi_Cam
+  - ObiMask_Cam
+  - OiranBody_Cam
+  - OiranBodyMask_Cam
+  - OiranArm_Cam
+  - OiranArmMask_Cam
+  - OiranBG_Cam
+  - OiranSakura_Cam
+  - OiranSakuraMask_Cam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Obi
+  - Obi_Mask
+  - OiranBody
+  - OiranBody_Mask
+  - OiranArm
+  - OiranArm_Mask
+  - OiranBG
+  - Branch
+  - Branch_Mask
+  - Sakura
+  - Sakura_Mask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
